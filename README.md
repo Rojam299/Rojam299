@@ -20,7 +20,7 @@ partnering closely with customers to understand problems and deliver reliable, p
 
 
 
-## 💡 Personal Projects Only (highlights)
+## 💡 Personal Projects (highlights)
 - ALAS:  Augemented Log analysis system uses RAG for analysing large-scale system logs. 
 - Authub:  Security broker for microservices integrating with Keycloak (IdP), without replacing it. Validates JWTs via JWKS and introspection with caching/backoff, normalises claims into roles and permissions. [https://github.com/Rojam299/authhub](#)
 - Developer tools — In recent company project, Developed python scripts to migrate particular data connectors to a different repo automatically, mapping the correct fields. 
