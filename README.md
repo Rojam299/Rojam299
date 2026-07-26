@@ -13,11 +13,11 @@ Full Stack Engineer with 8+ years building scalable web applications and AI-powe
 - Cloud & AI: Cloud deployments, REST APIs, RAG, LLM applications
 - DevOps / Infra: Kubernetes, Docker, CI/CD
 
-TODO: (Replace the placeholders  with links to repos or write 1–2 sentence descriptions for each project.)
-## 💡 Projects (highlights)
-- Project A — Short one-line description and outcome. [Repo/Link](#)
-- Project B — Built a RAG pipeline to index logs and surface actionable insights. [Repo/Link](#)
-- Developer tools — Utilities and scripts for production support and observability. [Repo/Link](#)
+
+## 💡 Personal Projects Only (highlights)
+- ALAS:  Augemented Log analysis system uses RAG for fetching and processing relevant logs from bundle of logs. 
+- Authub:  Security broker for microservices integrating with Keycloak (IdP), without replacing it. Validates JWTs via JWKS and introspection with caching/backoff, normalises claims into roles and permissions. [https://github.com/Rojam299/authhub](#)
+- Developer tools — In recent company project, Developed python scripts to migrate particular data connectors to a different repo automatically, mapping the correct fields. 
 
 
 
