@@ -39,7 +39,7 @@ partnering closely with customers to understand problems and deliver reliable, p
 ## ✉️ Contact
 - Email: rohitjobmail89@gmail.com
 - GitHub: https://github.com/Rojam299
-- LinkedIn: (add your LinkedIn URL)
+- LinkedIn: 
 
 ## ✅ Contribution / collaboration
 If you’d like to collaborate:
