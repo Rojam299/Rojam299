@@ -8,9 +8,7 @@ Java • Python • React • Next.js • Docker • Kubernetes • RAG • LLMs
 I also enjoy solving customer-facing production issues and building reliable integrations.
 
 
-- 🔭 I’m currently working on
-  
-    Building RAG-based systems for analysing large-scale system logs using LLMs.
+- 🔭 I’m currently working on building RAG-based systems for analysing large-scale system logs using LLMs.
     Exploring AI applications that solve real engineering problems.
     Learning embedded systems to better understand software-hardware interactions.
 
