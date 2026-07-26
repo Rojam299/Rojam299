@@ -16,8 +16,11 @@ Devops: K8's,  docker
 
 
 - 🔭 I’m currently working on
+- 
 -🤖 Building RAG-based systems for analysing large-scale system logs using LLMs.
+
 -☁️ Exploring AI applications that solve real engineering problems.
+
 -📚 Learning embedded systems to better understand software-hardware interactions.
 
 - 🌱 I’m currently learning ...
