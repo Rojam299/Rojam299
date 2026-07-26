@@ -1,18 +1,11 @@
 ## Hi there 👋
 
-I'm Rohit, a Full Stack Engineer with 8+ years of experience, 
-passionate about building scalable web applications and AI-powered systems.
+I'm Rohit, a Full Stack Engineer with 8+ years of experience 
+building scalable enterprise applications and AI-powered solutions.
 
-I have experience developing and deploying enterprise applications across the full stack, 
-from backend services and cloud integrations to modern frontend applications and production support. 
+Java • Python • React • Next.js • Docker • Kubernetes • RAG • LLMs
 
-Tech Stack
-Backend: Java, Python
-Frontend: React, Next.js, JavaScript
-Styling: Tailwind CSS
-Cloud & AI: Cloud deployments, REST APIs, Retrieval-Augmented Generation (RAG), Large Language Model (LLM) applications
 I also enjoy solving customer-facing production issues and building reliable integrations.
-Devops: K8's,  docker 
 
 
 - 🔭 I’m currently working on
