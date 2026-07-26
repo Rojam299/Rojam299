@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi there 👋
+
 I'm Rohit, a Full Stack Engineer with 8+ years of experience, 
 passionate about building scalable web applications and AI-powered systems.
 
