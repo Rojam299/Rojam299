@@ -9,11 +9,13 @@ I also enjoy solving customer-facing production issues and building reliable int
 
 
 - 🔭 I’m currently working on building RAG-based systems for analysing large-scale system logs using LLMs.
+
     •Exploring AI applications that solve real engineering problems.
+    
     •Learning embedded systems to better understand software-hardware interactions.
 
 - 🌱 I’m currently learning
-    •I/ML internals, 
+    AI/ML internals, 
     Basics of Embedded systems.
 
 - 👯 I’m looking to collaborate on projects involving:
